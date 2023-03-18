@@ -6,7 +6,9 @@ AI Chat Bot is an intelligent chatbot that can answer your questions, provide re
 
 - Ask any question and get an intelligent answer
 - Have a natural conversation with the bot
+- available on across all platform
 - Receive recommendations based on your preferences
+
 
 
 ## Getting Started
